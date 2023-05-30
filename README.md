@@ -1,3 +1,3 @@
 # Personal-Bio-Website
 
-This is my personal bio website I created using HTML,CSS, and Bootstrap
+This is a personal bio website I created using HTML,CSS, and Bootstrap
